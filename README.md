@@ -25,12 +25,18 @@ Initiate the Spec-Driven Development workflow and generate requirements.md, desi
 
 ### Step 3: Review the Screenshot
 
-For visual guidance, refer to the screenshot located at:
-```
-Kiro-Prompt-Screenshot.png
-```
+For visual guidance, refer to the screenshot below:
+
+![Kiro Prompt Screenshot](Images/Kiro-Prompt-Screenshot.png)
 
 This shows you exactly where to enter the prompt in the Kiro interface.
+
+**The Prompt to Enter:**
+```
+I have populated the steering files (product.md, tech.md, structure.md). Read them. Based on those standards, I want to build a 'Supply Chain Visibility' Streamlit app.
+
+Initiate the Spec-Driven Development workflow and generate requirements.md, design.md, and tasks.md.
+```
 
 ### Step 4: Let Kiro Work
 
@@ -45,7 +51,7 @@ Once you submit the prompt, Kiro will:
 
 This workspace contains:
 
-- **Steering Files**:
+- **Steering Files** (`.kiro/steering/`):
   - `product.md` - Product vision and principles
   - `tech.md` - Technical stack and constraints
   - `structure.md` - Project structure guidelines
