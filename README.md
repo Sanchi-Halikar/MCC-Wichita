@@ -18,7 +18,9 @@ Before starting the workshop, you'll need to set up Kiro and create an AWS Build
 4. Verify your email address through the confirmation link
 5. Complete your profile information
 
-Your AWS Builder ID gives you free access to Kiro and other AWS developer tools.
+The first time you access Kiro, you'll receive 500 bonus credits* usable within 30 days, whatever plan you sign up for, including Kiro Free.
+
+*Learn more about [Kiro credits](#understanding-kiro-credits) below.
 
 ### 2. Download and Install Kiro
 
@@ -104,4 +106,14 @@ After completing the initial spec generation, you can:
 - Add new features using the same workflow
 
 Happy building! 🚀
+
+## Understanding Kiro Credits
+
+A credit is a unit of work in response to user prompts. Simple prompts can consume less than 1 credit. More complex prompts, such as executing a spec task, typically cost more than 1 credit. 
+
+Additionally, different models consume credits at different rates, with a prompt executed via Sonnet 4.5 costing more credits than executing it with Auto. For example, a given task that consumes X credits to execute in Auto, will cost you 1.3X credits to execute via Sonnet 4.5. 
+
+Credits are metered to the second decimal point, so the least number of credits a task can consume is 0.01 credits.
+
+For more information, visit the [Kiro FAQ](https://kiro.dev/faq).
 
