@@ -6,6 +6,28 @@ Welcome to the Kiro Workshop! This hands-on session will teach you how to use Ki
 
 In this workshop, you'll learn how to leverage Kiro's AI-powered IDE to build a Supply Chain Visibility Streamlit app using natural language instructions and steering files.
 
+## Prerequisites
+
+Before starting the workshop, you'll need to set up Kiro and create an AWS Builder ID.
+
+### 1. Create an AWS Builder ID
+
+1. Go to [AWS Builder ID Sign Up](https://profile.aws.amazon.com/)
+2. Click "Sign up" and follow the prompts
+3. Enter your email address and create a password
+4. Verify your email address through the confirmation link
+5. Complete your profile information
+
+Your AWS Builder ID gives you free access to Kiro and other AWS developer tools.
+
+### 2. Download and Install Kiro
+
+1. Go to [kiro.dev/download](https://kiro.dev/download)
+2. Select your operating system (Windows, macOS, or Linux)
+3. Download and install the application
+4. Launch Kiro and sign in with your AWS Builder ID
+5. Open or create a workspace folder for this workshop
+
 ## Getting Started
 
 ### Step 1: Copy the Steering Files
@@ -58,7 +80,7 @@ Once you submit the prompt, Kiro will:
 
 This workspace contains:
 
-- **Steering Files** (`.kiro/steering/`):
+- **Steering Files**:
   - `product.md` - Product vision and principles
   - `tech.md` - Technical stack and constraints
   - `structure.md` - Project structure guidelines
@@ -82,3 +104,4 @@ After completing the initial spec generation, you can:
 - Add new features using the same workflow
 
 Happy building! 🚀
+
