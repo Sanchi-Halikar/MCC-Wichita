@@ -41,8 +41,10 @@ The first time you access Kiro, you'll receive 500 bonus credits* usable within 
 
 ### Step 2: Open Kiro Spec
 
-1. In Kiro, open the **Spec** panel (look for the Spec icon in the sidebar or use the command palette)
+1. In Kiro, open the **Spec** panel (look for the Spec icon in the sidebar)
 2. Click on **"New Spec"** to create a new specification
+
+For detailed instructions, see [Kiro's Getting Started Guide](https://kiro.dev/docs/getting-started/first-project/#open-your-project).
 
 ![Kiro Prompt Screenshot](Kiro-Prompt-Screenshot.png)
 
