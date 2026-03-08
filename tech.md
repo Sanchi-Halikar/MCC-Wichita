@@ -8,7 +8,7 @@
 
 **Database:** SQLite (Simulating Databricks SQL Warehouse)
 
-**AI Integration:** Amazon Bedrock via `strands sdk`. Use model 'global.anthropic.claude-sonnet-4-6'
+**AI Integration:** Amazon Bedrock via `strands sdk`. Use model 'us.amazon.nova-pro-v1:0'
 
 **Python and PIP:** Use python3 and pip3 when you need to use Python and PIP commands
 
