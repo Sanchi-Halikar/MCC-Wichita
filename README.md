@@ -100,6 +100,9 @@ Once you submit the prompt, Kiro will:
 
 ```bash
 pip3 install -r requirements.txt
+```
+
+```bash
 streamlit run app.py
 ```
 
