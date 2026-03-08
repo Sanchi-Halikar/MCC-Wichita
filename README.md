@@ -1,15 +1,14 @@
 # Kiro Workshop: Data App Factory
 
+## Workshop Overview
+
+In this hands-on session, you'll use Kiro's Spec-Driven Development workflow to build this app from scratch using steering files and natural language prompts. Kiro will generate requirements, design, and implementation tasks — then execute them.
+
 ## What Are We Building?
 
 A self-service Streamlit dashboard that lets business analysts explore and ask questions in natrual languange instead of writing SQL queries.
 
 
-## Workshop Overview
-
-In this hands-on session, you'll use Kiro's Spec-Driven Development workflow to build this app from scratch using steering files and natural language prompts. Kiro will generate requirements, design, and implementation tasks — then execute them.
-
----
 
 ## Prerequisites
 
@@ -31,7 +30,6 @@ The first time you access Kiro, you'll receive 500 bonus credits* usable within 
 2. Select your operating system (Windows, macOS, or Linux)
 3. Download and install the application
 4. Launch Kiro and sign in with your AWS Builder ID
-
 
 
 
@@ -105,7 +103,6 @@ pip3 install -r requirements.txt
 streamlit run app.py
 ```
 
----
 
 ## What's Included
 
@@ -118,7 +115,7 @@ This workspace contains:
 These files guide Kiro to build applications that follow your organization's standards.
 
 
----
+
 
 ## Learning Objectives
 
@@ -129,7 +126,7 @@ By the end of this workshop, you'll understand how to:
 - Build data applications using natural language
 - Work with Kiro's AI assistant effectively
 
----
+
 
 ## Next Steps
 After completing the initial spec generation, you can:
