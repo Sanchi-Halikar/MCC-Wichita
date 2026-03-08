@@ -2,7 +2,7 @@
 
 ## What Are We Building?
 
-A self-service Streamlit dashboard that lets business analysts explore supply chain data using plain English. Instead of writing SQL, you type questions like "Which suppliers have the worst delivery delays?" and the app responds with interactive tables and charts
+A self-service Streamlit dashboard that lets business analysts explore supply chain data using plain English. Instead of writing SQL, you can ask questions in natrual languange and the app responds with interactive tables and charts
 
 ---
 
@@ -58,9 +58,9 @@ mkdir -p .kiro/steering && mv product.md structure.md tech.md .kiro/steering/
 ```
 
 This creates three steering files:
-- `product.md` — Product vision, user personas, and core principles
-- `tech.md` — Tech stack (Python, Streamlit, SQLite, Bedrock) and architectural constraints
-- `structure.md` — Expected project directory layout
+  - product.md - Product vision and principles
+  - tech.md - Technical stack and constraints
+  - structure.md - Project structure guidelines
 
 Kiro automatically reads these on every interaction to keep generated code aligned with your standards.
 
