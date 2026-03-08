@@ -1,10 +1,9 @@
-# Kiro Workshop: Supply Chain Visibility App
+# Kiro Workshop: Data App Factory
 
 ## What Are We Building?
 
-A self-service Streamlit dashboard that lets business analysts explore supply chain data using plain English. Instead of writing SQL, you can ask questions in natrual languange and the app responds with interactive tables and charts
+A self-service Streamlit dashboard that lets business analysts explore and ask questions in natrual languange instead of writing SQL queries.
 
----
 
 ## Workshop Overview
 
