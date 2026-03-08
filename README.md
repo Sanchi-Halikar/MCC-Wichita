@@ -88,7 +88,6 @@ Once you submit the prompt, Kiro will:
 4. Break down the work into actionable tasks
 5. Guide you through the implementation
 
----
 
 ## To Run the application
 
